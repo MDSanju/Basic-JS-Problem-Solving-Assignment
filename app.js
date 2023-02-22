@@ -101,3 +101,6 @@ function perfectFriend(friends) {
 
 const bestFriend = perfectFriend(friendNames);
 console.log(bestFriend);
+
+// All problems output
+console.log(convertToMon, sales, totalDeliveryCost, bestFriend);
